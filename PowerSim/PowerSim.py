@@ -10,7 +10,7 @@ import pandas as pd
 
 
 
-host ="ptc.abujaelectricity.com/"
+host =""
 
 # conn = http.client.HTTPSConnection("ptc.abujaelectricity.com")
 
